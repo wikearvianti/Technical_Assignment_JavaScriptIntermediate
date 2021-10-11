@@ -1,0 +1,10 @@
+Soal - 01
+Apa itu localStorage?
+Apa itu cookies?
+Apa perbedaan antara localStorage dan sessionStorage?
+
+//JAWABAN
+1. Tempat di browser yang bisa digunakan untuk menyimpan data dan data tidak akan hilang walaupun browser di close dan komputer di restart
+2. Serangkaian teks yang disimpan pada komputer Anda oleh situs web 
+3. localStorage : data yang disimpan tidak memiliki waktu expired
+   sessionStorage : data yang disimpan akan hilang jika browser ditutup
